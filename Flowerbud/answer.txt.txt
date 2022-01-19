@@ -1,0 +1,7 @@
+flag{CONVOKUTION_FUJ7WWEc5N}
+
+If you zoom in really hard you can see the very light text "flag{"the string you will get"_FUJ7WWEc5N}"
+intervals of colored text translates => "key"
+distinguishing font sizes and double spaces as "large" characters translates => bacon cipher => mslfsjexgyr
+using the above info you plug it into a Vigenere decoder => CONVOKUTION
+you now have the flag, hoorah
