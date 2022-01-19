@@ -1,0 +1,9 @@
+My example problem
+By CTF Club Admin
+
+Challenge is in challenge.txt
+
+Hints:
+Open the text file
+Look at the text
+It's not that hard

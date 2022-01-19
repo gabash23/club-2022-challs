@@ -1,0 +1,4 @@
+flag{my_3x4MP13_F14G_48xUqK1}
+
+Solvepath:
+To get the flag reverse the string
